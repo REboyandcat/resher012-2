@@ -1,0 +1,26 @@
+{
+"name": "resher0012-2",
+"version": "1.0.0",
+"description": "oInsights is your cryptocurrency news briefing center. From the latest developments in blockchain technology to market dynamics, we provide timely and accurate information to keep you c",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/REboyandcat/resher012-2.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "REboyandcat",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
